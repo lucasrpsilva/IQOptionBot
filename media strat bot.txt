@@ -1,0 +1,79 @@
+Tendência(20) (M1): 47 x 53 - 47%
+
+Tendência(20) (M5): 104 x 103 - 50% (Quebrou)
+
+Tendência(15) (M1): 44 x 56 - 44%
+
+Tendência(15) (M5): 12 x 18 - 40%
+
+Tendência(10) (M1): 47 x 53 - 47%
+
+Tendência(10) (M5): 11 x 7 - 61% (Quebrou)
+
+Tendência(5) (M1): 46 x 54 - 46%
+
+Tendência(5) (M5): 1 x 3 - 25% (Quebrou)
+
+Tendência(3) (M1): 15 x 24 (Quebrou)
+
+Tendência(3) (M5): 34 x 45 - 43%
+
+--------------------------------------------------------------------------------
+
+Bollinger (M1): 42 x 73 - 36% (Quebrou)
+
+Bollinger (M5): 46 x 47 - 47%
+
+Bollinger + Tendência(20) (M1): 9 x 26 - 25% (Quebrou)
+
+Bollinger + Tendência(20) (M5): 50%
+
+Bollinger + Tendência(15) (M1): 71 x 81 - 46%
+
+Bollinger + Tendência(15) (M5): 0 x 0 - 0%
+
+Bollinger + Tendência(10) (M1): 71 x 64 - 54%
+
+Bollinger + Tendência(10) (M5): 3 x 4 - 42%
+
+Bollinger + Tendência(5) (M1): 13 x 17 - 43%
+
+Bollinger + Tendência(5) (M5): 0 x 0 - 0%
+
+Bollinger + Tendência(3) (M1): 0 x 0 - 0%
+
+Bollinger + Tendência(3) (M5): 0 x 0 - 0%
+
+--------------------------------------------------------------------------------
+
+Berman(M1): 3 x 16 - 15%
+
+Berman(M5): 13 x 13 - 50%
+
+Berman(M1) + Tendência(20): 0 x 0 - 0%
+
+Berman(M5) + Tendência(20): 0 x 0 - 0%
+
+Berman(M1) + Tendência(15): 0 x 0 - 0%
+
+Berman(M5) + Tendência(15): 0 x 0 - 0%
+
+Berman(M1) + Tendência(10): 0 x 0 - 0%
+
+Berman(M5) + Tendência(10): 0 x 0 - 0%
+
+Berman(M1) + Tendência(5): 0 x 0 - 0%
+
+Berman(M5) + Tendência(5): 0 x 0 - 0%
+
+Berman(M1) + Tendência(3): 0 x 0 - 0%
+
+Berman(M5) + Tendência(3): 0 x 1 - 0%
+
+--------------------------------------------------------------------------------
+
+Suporte e Resistência (M1): 0 x 0 - 0%
+
+Suporte e Resistência (M5): 0 x 0 - 0%
+
+Suporte e Resistência + Tendência(20) (M5): 0 x 0 - 0%
